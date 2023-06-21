@@ -6,22 +6,22 @@
 > 
 > I don't give a fuck about 人家说什么。他们想说什么就说什么，但是他们算什么？没有谁有权力拿他的标准衡量我。主宰是我自己，随便人家如何想，我还是我。——宋岳庭《生命是场斗争》 
 
-* [在线阅读](https://emu.apachecn.org)
+* [在线阅读](https://emu.flygon.net)
 ## 下载
 
 ### Docker
 
 ```
-docker pull apachecn0/apachecn-emu-zh
-docker run -tid -p <port>:80 apachecn0/apachecn-emu-zh
+docker pull apachecn0/flygon-emu-zh
+docker run -tid -p <port>:80 apachecn0/flygon-emu-zh
 # 访问 http://localhost:{port} 查看文档
 ```
 
 ### NPM
 
 ```
-npm install -g apachecn-emu-zh
-apachecn-emu-zh <port>
+npm install -g flygon-emu-zh
+flygon-emu-zh <port>
 # 访问 http://localhost:{port} 查看文档
 ```
 
